@@ -1,30 +1,60 @@
-# Spending Analysis Project
+# 🧾 Spending Analysis Project
 
-This project analyzes consumer spending behavior using a detailed transactions dataset and compares it to global expenditure data.
+This is a Python-based data analysis project that explores consumer spending behavior using real-world transaction data.  
+It includes data cleaning, transformation, feature engineering, and visual insights using Plotly and other libraries.
 
-## 📁 Project Structure
-- `data/` – Source datasets
-- `notebooks/` – Jupyter notebooks for exploration and analysis
-- `output/` – Final processed files (CSV, Excel)
-- `visualizations/` – Interactive and static charts
-- `docs/` – Summary or abstract files (Markdown, Word)
-- `README.md` – Project summary and documentation
+---
 
-## 📊 Key Steps
-- Cleaned and processed raw data
-- Created new date-based features
-- Encoded categorical variables
-- Joined with global expenditure data from Wikipedia
-- Calculated spending differences
-- Created interactive visualizations with Plotly
+## 📂 Project Structure
 
-## 📦 Output Files
-- `output/final_merged_spending.csv`
-- `visualizations/spending_by_category.html`
-- `visualizations/spending_by_month.html`
+📁 data/ --> Raw and cleaned datasets
+📁 notebooks/ --> Jupyter Notebooks for wrangling & analysis
+📁 output/ --> Final saved files (CSV, Excel, etc.)
+📁 visualizations/ --> Generated charts (PNG, HTML)
+📁 docs/ --> Documentation or project summary
+README.md --> Project overview file
+requirements.txt --> Python libraries used
 
-## 🔧 Tools & Libraries
-- pandas, plotly, requests, BeautifulSoup
-- External data source: [Wikipedia - Household expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_household_final_consumption_expenditure_per_capita)
+
+---
+
+## 🚀 How to Run This Project
+
+---
+
+## 🚀 How to Run This Project
+
+1. **Clone this repository:**
+
+[https://github.com/GhaziKanaan/spending_analysis_project.git](https://github.com/GhaziKanaan/spending_analysis_project.git)
+
+```bash
+git clone https://github.com/GhaziKanaan/spending_analysis_project.git
+cd spending_analysis_project
+
+
+
+## 📊  Sample Output
+
+
+## 🔍 Project Highlights
+1.Cleaned and explored transactional data
+
+2.Engineered date features: Month, Year, Weekday
+
+3.Encoded categorical variables
+
+4.Visualized trends using Plotly
+
+5.Compared spending against global averages
+
+## 👤 Author
+
+
+**Ghazi Kanaan**  
+Graduate Student – Business Analytics  
+[GitHub Profile](https://github.com/GhaziKanaan)
+
+
 
 
