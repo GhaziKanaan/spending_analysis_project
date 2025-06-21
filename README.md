@@ -27,7 +27,7 @@ requirements.txt --> Python libraries used
 ```bash
 git clone https://github.com/GhaziKanaan/spending_analysis_project.git
 cd spending_analysis_project
-
+```
 ---
 
 ## 🔍 Project Highlights
