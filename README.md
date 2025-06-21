@@ -20,10 +20,6 @@ requirements.txt --> Python libraries used
 
 ## 🚀 How to Run This Project
 
----
-
-## 🚀 How to Run This Project
-
 1. **Clone this repository:**
 
 [https://github.com/GhaziKanaan/spending_analysis_project.git](https://github.com/GhaziKanaan/spending_analysis_project.git)
@@ -32,12 +28,10 @@ requirements.txt --> Python libraries used
 git clone https://github.com/GhaziKanaan/spending_analysis_project.git
 cd spending_analysis_project
 
-
-
-## 📊  Sample Output
-
+---
 
 ## 🔍 Project Highlights
+
 1.Cleaned and explored transactional data
 
 2.Engineered date features: Month, Year, Weekday
@@ -47,7 +41,7 @@ cd spending_analysis_project
 4.Visualized trends using Plotly
 
 5.Compared spending against global averages
-
+---
 ## 👤 Author
 
 
