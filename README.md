@@ -5,6 +5,14 @@ It includes data cleaning, transformation, feature engineering, and visual insig
 
 ---
 
+## 🧭 Assignment Context
+
+This project was developed as part of the final homework (HW3) for the course.  
+It is based on **Module 5: Data Wrangling, Visualization, and Analysis**, focusing on working with external datasets, cleaning and transforming them, and creating interactive visualizations.  
+It also demonstrates integration of external sources such as Wikipedia and FRED.
+
+---
+
 ## 📂 Project Structure
 
 📁 data/ --> Raw and cleaned datasets
